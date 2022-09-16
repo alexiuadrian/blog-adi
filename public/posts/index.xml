@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adi&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Adi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <lastBuildDate>Thu, 15 Sep 2022 22:46:59 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Thu, 15 Sep 2022 22:46:59 +0300</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>Hello, World!
+This is my first post on this blog. I hope you like it!
+I want to start by saying that this website is built using Hugo, a static site generator. I chose Hugo because it is fast, easy to use, and has a lot of themes to choose from. I also chose Hugo because it is written in Go, which is a language I am learning.
+There is not much to say about this post, so I will end it here.</description>
+    </item>
+    
+  </channel>
+</rss>
