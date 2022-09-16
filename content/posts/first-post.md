@@ -2,6 +2,7 @@
 title: "First Post"
 date: 2022-09-15T22:46:59+03:00
 draft: false
+tags: ["random"]
 ---
 
 Hello, World!

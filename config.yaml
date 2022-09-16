@@ -1,4 +1,4 @@
-baseURL: https://example.com
+# baseURL: https://example.com
 languageCode: ro
 defaultContentLanguage: ro
 title: Adi's Blog
@@ -14,11 +14,11 @@ imaging:
   quality: 99
 
 params:
-  description: My personal website (+ blog)
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: My personal website
+  homeMetaContent: Personal website of Adrian Alexiu 
+  footer: © 2022 Adrian Alexiu. All rights reserved. Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). 
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
+  dateFormat: 2 Jan, 2006
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
@@ -42,12 +42,12 @@ menu:
     - name: Blog
       url: /posts/
       weight: 2
-    # - name: Tags
-    #   url: /tags/
-    #   weight: 3
-    - name: About
-      url: /about/
-      weight: 4
+    - name: Tags
+      url: /tags/
+      weight: 3
+    # - name: About
+    #   url: /about/
+    #   weight: 4
     # - name: RSS
     #   url: /index.xml
     #   weight: 5
