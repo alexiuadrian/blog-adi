@@ -1,11 +1,13 @@
-# baseURL: https://example.com
-languageCode: ro
-defaultContentLanguage: ro
+baseURL: https://creative-custard-a20db1.netlify.app/
+languageCode: en-us
 title: Adi's Blog
 theme: cupper-hugo-theme
 #googleAnalytics: UA-123456789-1
 #disqusShortname: yourdiscussshortname
-#enableGitInfo: true
+# enableGitInfo: true
+# enableRobotsTXT: true
+# enableSitemap: true
+# enableRSS: true
 
 taxonomies:
   tag: tags
