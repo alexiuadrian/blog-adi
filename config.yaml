@@ -1,4 +1,5 @@
-baseURL: https://creative-custard-a20db1.netlify.app/
+# baseURL: https://creative-custard-a20db1.netlify.app/
+baseURL : https://alexiuadrian.com/
 languageCode: en-us
 title: Adi's Blog
 theme: cupper-hugo-theme
