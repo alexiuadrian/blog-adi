@@ -3,7 +3,8 @@ baseURL : https://alexiuadrian.com/
 languageCode: en-us
 title: Adi's Blog
 theme: cupper-hugo-theme
-#googleAnalytics: UA-123456789-1
+googleAnalytics: G-0BR80YS4N1
+# googleAnalytics: UA-123456789-1
 #disqusShortname: yourdiscussshortname
 # enableGitInfo: true
 # enableRobotsTXT: true
