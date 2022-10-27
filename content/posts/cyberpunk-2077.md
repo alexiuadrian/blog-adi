@@ -36,7 +36,7 @@ Fast forward two beautiful years. I now own an Xbox Series S and I recently boug
 
 I didn't know the story of the game, I didn't know the characters, I didn't know the setting. I didn't know anything about it. I just knew that it was a game that I wanted to play. I wanted to play it because I wanted to experience the world that CD Projekt Red created. I wanted to experience the story that they told. I wanted to experience the characters that they created. I wanted to experience the game that they made.
 
-I am crazy about it. Sold 100%. I don't care about the bad reviews or any controversy. I am inside the story, inside the Cyberpunk 2077 world. Crazy to think it would come to this but I KNEW I should have bought it. Also, payed $10 for it so it was a steal.
+I am crazy about it. Sold 100%. I don't care about the bad reviews or any controversy. I am inside the story, inside the Cyberpunk 2077 world. Crazy to think it would come to this but I KNEW I should have bought it. Also, paid $10 for it so it was a steal.
 
 I spent this last weekend playing for like 20-ish hours and can't get enough. No fucking way I will finish the game soon, it's so big. I am just taking my time and enjoying the ride. I am not in a hurry. I am not in a rush. I am just enjoying the smooth ride through Night City.  
 
