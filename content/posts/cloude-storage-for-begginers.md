@@ -1,10 +1,8 @@
 ---
-title: "Cloude Storage for Begginers"
+title: "Cloude Storage for Beginners"
 date: 2023-01-18T20:47:23+02:00
 draft: false
 ---
-
-# Cloud Storage for beginners
 
 > How cloud storage is becoming more and more popular
 
