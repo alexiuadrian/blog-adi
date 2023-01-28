@@ -1,5 +1,5 @@
 # baseURL: https://creative-custard-a20db1.netlify.app/
-baseURL : https://alexiuadrian.com/
+baseURL: https://alexiuadrian.com/
 languageCode: en-us
 title: Adi's Blog
 theme: cupper-hugo-theme
@@ -19,8 +19,8 @@ imaging:
 
 params:
   description: My personal website
-  homeMetaContent: Personal website of Adrian Alexiu 
-  footer: © 2022 Adrian Alexiu. All rights reserved. Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). 
+  homeMetaContent: Personal website of Adrian Alexiu
+  footer: © 2023 Adrian Alexiu. All rights reserved. Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: 2 Jan, 2006
   hideHeaderLinks: false
