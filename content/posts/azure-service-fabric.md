@@ -34,5 +34,3 @@ References
 2. https://azure.microsoft.com/en-us/services/service-fabric/
 3. https://www.techtarget.com/searchcloudcomputing/answer/What-is-the-difference-between-AKS-and-Azure-Service-Fabric
 4. https://azure.microsoft.com/en-us/pricing/details/service-fabric/
-
-![Image](/images/img.png)
